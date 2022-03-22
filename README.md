@@ -24,13 +24,3 @@ src="https://raw.githubusercontent.com/gist/Vitoria-th/8029de58a8d0b216afb7f6b73
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/vitoria-th/" target="_blank">
-  <img align="center" src="" alt="linkedin"/>
-</a>
-</p>
