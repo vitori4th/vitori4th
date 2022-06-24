@@ -2,7 +2,7 @@
 
 <img align="right" height="590em" 
 src="https://raw.githubusercontent.com/gist/Vitoria-th/8029de58a8d0b216afb7f6b73e07a461/raw/e12cc96d8dde253a73a95f5d12bf64c4620f5398/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vitória Thaís</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"  height="30px">, I'm Vitória Thaís</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vitoria-th&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Web Developer focused on turning your problems in great solutions
